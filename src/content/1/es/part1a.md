@@ -312,7 +312,7 @@ React se ha configurado para generar mensajes de error bastante claros. A pesar 
 
 Es bueno recordar que en React es posible y vale la pena escribir comandos <em>console.log()</em> (que se imprimen en la consola) dentro de tu código. 
 
-También tenga en cuenta que **los nombres de los componentes de React deben estar en mayúscula**. Si intenta definir un componente de la siguiente manera 
+También tenga en cuenta que **los nombres de los componentes de React deben de tener la primera letra en mayúscula**. Si intenta definir un componente de la siguiente manera 
 
 ```js
 const footer = () => {
